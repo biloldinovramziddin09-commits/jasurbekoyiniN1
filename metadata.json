@@ -1,0 +1,6 @@
+{
+  "name": "UZGAME — 3D Onlayn O'yinlar Platformasi",
+  "description": "O'zbek tilidagi zamonaviy 3D onlayn o'yinlar platformasi: 3 yoshdan 20 yoshgacha bo'lgan foydalanuvchilar uchun 20 ta haqiqiy 3D o'yin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
